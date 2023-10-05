@@ -14,7 +14,7 @@ function Point(){
     let value = document.getElementById('point');
     let Display = document.getElementById('Display');
 
-    Display.value = ".";
+    Display.value += ".";
 
 }
 

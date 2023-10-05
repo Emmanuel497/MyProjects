@@ -44,7 +44,7 @@ input[type="text"]{
 }
 
 input[type="button"]{
-    padding: 14px 23px;
+    padding: 14px 22.5px;
     border-radius: 15px;
     box-shadow: 1px 0.5px rgb(155, 143, 143);
     outline: none;
@@ -77,7 +77,7 @@ input[type="button"]:hover{
 }
 .bottom-operators input[type="button"]{
     
-    padding: 14px 19px;
+    padding: 14px 18px;
 }
 .row{
  display: flex;
